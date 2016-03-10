@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "January 20, 2017, ready or not, the most powerful administration on earth will begin a peaceful transition of power. The keys to 1600 Pennsylvania Ave. will be transferred from one President to the next. Looking though the volumes of history, the fact that this continues to happen every four years without incident, is testament to the values embedded in American society.\n\_"
-datePublished: '2016-03-10T02:24:30.790Z'
-dateModified: '2016-03-10T02:24:17.882Z'
+datePublished: '2016-03-10T02:51:50.932Z'
+dateModified: '2016-03-10T02:51:28.474Z'
 title: Cyber Policy Through Transition
 author: []
 sourcePath: _posts/2016-03-09-january-20-2017-ready-or-not-the-most-powerful-administra.md
@@ -26,8 +26,7 @@ _type: Article
 
 # Cyber Policy Through Transition
 
-January 20, 2017, ready or not, the most powerful administration on earth will begin a peaceful transition of power. The keys to 1600 Pennsylvania Ave. will be transferred from one President to the next. Looking though the volumes of history, the fact that this continues to happen every four years without incident, is testament to the values embedded in American society.
- 
+January 20, 2017, ready or not, the most powerful administration on earth will begin a peaceful transition of power. The keys to 1600 Pennsylvania Ave. will be transferred from one President to the next. Looking though the volumes of history, this will be the first time   
 
 For the first time in history, a cyber policy will be handed over from one administration to another. It is not a perfect policy, and it certainly is not a comprehensive policy; but it is the first time the United States of America has attempted to think about and create a useable cyber policy, both as it relates to economic actions, but more importantly to how it related to acts of war. It will also be the first time an incoming president has a cyber policy already operating. 
 
