@@ -2,17 +2,17 @@
     <channel>
         <title><![CDATA[CodeInt]]></title>
         <description><![CDATA[CodeInt]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://code-int.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 23:42:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 10 Mar 2016 00:39:59 GMT</lastBuildDate>
+        <atom:link href="http://code-int.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>January 20, 2017, ready or not, the most powerful administration on earth will begin a peaceful transition of power. The keys to 1600 Pennsylvania Ave. will be transferred from one President to the next. Looking though the volumes of history, the fact that this continues to happen every four years without incident, is testament to the values embedded in American society.
  </p>]]></description>
-            <link>undefinedjanuary-20-2017-ready-or-not-the-most-powerful-administra/index.html</link>
+            <link>http://code-int.com/january-20-2017-ready-or-not-the-most-powerful-administra/index.html</link>
             <guid isPermaLink="false">6d039d3e-2566-470d-b1c9-115246288996</guid>
-            <pubDate>Wed, 09 Mar 2016 23:42:34 GMT</pubDate>
+            <pubDate>Thu, 10 Mar 2016 00:39:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
