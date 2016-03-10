@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "January 20, 2017, ready or not, the most powerful administration on earth will begin a peaceful transition of power. The keys to 1600 Pennsylvania Ave. will be transferred from one President to the next. Looking though the volumes of history, the fact that this continues to happen every four years without incident, is testament to the values embedded in American society.\n\_"
-datePublished: '2016-03-10T00:48:01.143Z'
-dateModified: '2016-03-10T00:47:52.508Z'
+datePublished: '2016-03-10T01:02:30.277Z'
+dateModified: '2016-03-10T01:00:30.629Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-09-january-20-2017-ready-or-not-the-most-powerful-administra.md
@@ -23,6 +23,8 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/42c3301f-ce8c-49c3-bfbd-cd0b2dbcfc8c.jpg)
+
+Leadership Through Transition
 
 January 20, 2017, ready or not, the most powerful administration on earth will begin a peaceful transition of power. The keys to 1600 Pennsylvania Ave. will be transferred from one President to the next. Looking though the volumes of history, the fact that this continues to happen every four years without incident, is testament to the values embedded in American society.
  
