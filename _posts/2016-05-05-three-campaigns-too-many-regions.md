@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ' Military'
-datePublished: '2016-05-05T21:13:28.095Z'
-dateModified: '2016-05-05T21:13:00.138Z'
+datePublished: '2016-05-05T21:16:14.188Z'
+dateModified: '2016-05-05T21:16:04.304Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-05-three-campaigns-too-many-regions.md
@@ -21,7 +21,7 @@ url: three-campaigns-too-many-regions/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/127e8a75-1fe0-442f-83bd-808266e4dd4f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e4de91d-a7ef-414c-a6bb-440f6b3bb04e.jpg)
 
 Traditional warfare has always had three main types of campaigns,
 
