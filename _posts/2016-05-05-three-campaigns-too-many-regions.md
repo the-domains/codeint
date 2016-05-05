@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Traditional warfare has always had three main types of campaigns,'
-datePublished: '2016-05-05T21:04:03.419Z'
-dateModified: '2016-05-05T21:03:20.820Z'
+description: ' Military'
+datePublished: '2016-05-05T21:08:30.057Z'
+dateModified: '2016-05-05T21:08:19.975Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-05-three-campaigns-too-many-regions.md
@@ -21,15 +21,15 @@ url: three-campaigns-too-many-regions/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3bc1a078-e9c6-4207-af83-860920dd734a.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e22a9966-5939-4dd0-9683-a00b69c847ef.jpg)
 
 Traditional warfare has always had three main types of campaigns,
 
-Military
+**Military**
 
-Economic
+**Economic**
 
-Propaganda
+**Propaganda**
 
 Warfare does not always mean that all three types of campaigns are in use. On the contrary, the structure of policy making both in the United States and in foreign counties typically separate the three elements into their own policy making wings, making it difficult for a united campaign.
 
@@ -48,4 +48,4 @@ I would suggest that the answer to these questions is artificial intelligence. A
 
 With a global AI, limited warfare could be waged in the economic, propaganda and military theaters with each type of warfare complementing its counterpart operating just below another country's risk tolerance.
 
-Please note, this post will be updated as the policy, medical, and cyber fields are explored in detail.
+Please note, this post will be updated as the policy, medical, and cyber fields are explored in detail. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/89152bf4-5efc-4cb5-a9a1-3ba9837a1b70.jpg)
