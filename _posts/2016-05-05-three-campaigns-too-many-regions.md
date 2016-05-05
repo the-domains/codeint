@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Traditional warfare has always had three main types of campaigns,'
-datePublished: '2016-05-05T20:57:13.458Z'
-dateModified: '2016-05-05T20:54:38.521Z'
+datePublished: '2016-05-05T21:04:03.419Z'
+dateModified: '2016-05-05T21:03:20.820Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-05-three-campaigns-too-many-regions.md
 authors: []
 publisher:
   name: null
@@ -16,12 +17,11 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-05-three-campaigns-too-many-regions.md
 url: three-campaigns-too-many-regions/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9c9018c-3b35-4d4a-b6f3-4562384ac48a.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3bc1a078-e9c6-4207-af83-860920dd734a.jpg)
 
 Traditional warfare has always had three main types of campaigns,
 
