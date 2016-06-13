@@ -8,19 +8,21 @@ description: >-
   Russia's recent involvement with the PKK (Kurdistan Workers' Party) in Turkey
   could be seen as further retaliation for the November 2015 shooting down of
   Russian aircraft, but it is also consistent with a larger trend within Russian
-  Foreign policy to asses NATO risk tolerance. 
-datePublished: '2016-06-13T02:13:49.543Z'
-dateModified: '2016-06-13T02:13:07.503Z'
+  Foreign policy to asses NATO risk tolerance.
+datePublished: '2016-06-13T02:17:08.838Z'
+dateModified: '2016-06-13T02:17:01.770Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-13-russias-recent-involvement-with-the-pkk-kurdistan-workers.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-13-russias-recent-involvement-with-the-pkk-kurdistan-workers.md
 url: russias-recent-involvement-with-the-pkk-kurdistan-workers/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6466897d-603c-4924-9a44-d0ff1f586d3f.png)
+
 Russia's recent involvement with the PKK (Kurdistan Workers' Party) in Turkey could be seen as further retaliation for the November 2015 shooting down of Russian aircraft, but it is also consistent with a larger trend within Russian Foreign policy to asses NATO risk tolerance.
 
 In 2014 the "little green men" in Ukraine began a trend in Russia's Foreign policy. By arming and training local militia forces Russia could achieve a few strategic goals with minimal risk.
@@ -41,5 +43,4 @@ With enough backing it is not impossible that the PKK could declare an autonomou
 
 NATO's reaction to the PKK will not only impact the war against ISIS, but signal to other NATO counties what response will be given if an 'ethnic uprising' occurs within their country. Outside the region it will signal other state actors like China how the United States would respond to 'ethnic' problems in the south China sea.
 
-The United States and NATO's response to the PKK in Turkey
-will shape how US foreign policy is interpreted around the world.
+The United States and NATO's response to the PKK in Turkey will shape how US foreign policy is interpreted around the world.
