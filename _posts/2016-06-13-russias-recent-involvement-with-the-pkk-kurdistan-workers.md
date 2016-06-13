@@ -9,8 +9,8 @@ description: >-
   could be seen as further retaliation for the November 2015 shooting down of
   Russian aircraft, but it is also consistent with a larger trend within Russian
   Foreign policy to asses NATO risk tolerance.
-datePublished: '2016-06-13T02:17:08.838Z'
-dateModified: '2016-06-13T02:17:01.770Z'
+datePublished: '2016-06-13T02:23:32.353Z'
+dateModified: '2016-06-13T02:23:20.153Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-13-russias-recent-involvement-with-the-pkk-kurdistan-workers.md
@@ -37,9 +37,9 @@ By sending Russian troops to train, assist, and support propaganda and military 
 
 Russia's supporting of the PKK allows NATO and US risk tolerance to be measured in a NATO country. If the risk tolerance is crossed, Russia can deny arming and assisting the PKK, or can argue that like the United States fighting alongside the YPG, Russian troops have aided the PKK in their fight against ISIL. 
 
-If the United States and NATO react against the PKK attacks in Turkey to strongly, or invoke Article 5 they risk alienating Kurdish fighters and YPG allies. If the United states and NATO temporarily ignore PKK attacks on Turkey, they signal to Russia a risk tolerance that is willing to tolerate breaches of NATO.
+If the United States and NATO react against the PKK attacks in Turkey to strongly, or invoke Article 5 they risk alienating Kurdish fighters and YPG allies. If the United states and NATO temporarily ignore PKK attacks on Turkey, they signal to Russia a risk tolerance that is willing to tolerate breaches of NATO countries. This sets the stage for intervention in
 
-With enough backing it is not impossible that the PKK could declare an autonomous area within turkey. Forcing NATO to respond or signaling to the world that US risk tolerance will allow ethnic autonomous regions within NATO. 
+With enough backing it is not impossible that the PKK could declare an autonomous area within Turkey. Forcing NATO to respond or signaling to the world that US risk tolerance will allow ethnic autonomous regions within NATO. 
 
 NATO's reaction to the PKK will not only impact the war against ISIS, but signal to other NATO counties what response will be given if an 'ethnic uprising' occurs within their country. Outside the region it will signal other state actors like China how the United States would respond to 'ethnic' problems in the south China sea.
 
