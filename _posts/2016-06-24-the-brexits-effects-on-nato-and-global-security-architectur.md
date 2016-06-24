@@ -7,8 +7,8 @@ keywords: []
 description: >-
   As results of the Brexit referendum were released on June 23rd, effects of the
   decision instantly began to manifest themselves.
-datePublished: '2016-06-24T22:45:01.747Z'
-dateModified: '2016-06-24T22:44:51.755Z'
+datePublished: '2016-06-24T22:52:56.548Z'
+dateModified: '2016-06-24T22:52:16.955Z'
 title: ''
 author: []
 sourcePath: >-
@@ -36,6 +36,6 @@ Political effects were seen almost immediately as well, with Prime Minister Davi
 
 The West's Global Security Architecture has also taken a heavy setback from the Brexit. Since the 1990s, the E.U. has worked to establish a military and defense competence that would allow it to take autonomous action outside of NATO. Without the U.K., the E.U.'s military and defense capabilities -- including in key areas such as strategic lift, intelligence surveillance and reconnaissance, and special forces -- are considerably reduced. Unless traditionally cautious Germany dramatically reorients its security and defense policy, the French will be the only country remaining in the E.U. with both the necessary military power and political will to use that power outside of NATO.
 
-The Brexit has also signaled to other far right parties in the E.U. such as the National Front and the National Democratic Party of Germany that referendums to leave the EU are a viable option. Regardless of how or even if Briton still choses to leave the EU, other far right political parties have gained momentum because of the Brexit vote. Additionally the Brexit vote signals to Russia that the EU is unstable, leaving E.U. counties that are not part of NATO, such as Finland, waiting to become a way for Russia to test E.U. risk tolerance.
+The Brexit has also signaled to other far right parties in the E.U. such as the National Front and the National Democratic Party of Germany that referendums to leave the EU are a viable option. Regardless of how or even if Briton still choses to leave the EU, other far right political parties have gained momentum because of the Brexit vote. It is very likely that a Frexit and Gerexit will become substantial political topics in their home counties in the coming weeks. Additionally the Brexit vote signals to Russia that the E.U. is unstable, leaving E.U. counties that are not part of NATO, such as Finland, waiting to become a way for Russia to test E.U. risk tolerance.
 
 As migration, Russia, and terrorism continue to grow, U.S. leaders must continue to work closely with E.U. and NATO members on intelligence, nuclear issues, special forces and critical overseas counterterrorism operations, providing unity and leadership in the defense arena through times of difference.
