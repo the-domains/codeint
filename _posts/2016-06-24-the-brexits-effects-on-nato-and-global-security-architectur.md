@@ -7,19 +7,21 @@ keywords: []
 description: >-
   As results of the Brexit referendum were released on June 23rd, effects of the
   decision instantly began to manifest themselves.
-datePublished: '2016-06-24T22:41:31.916Z'
-dateModified: '2016-06-24T22:41:11.287Z'
+datePublished: '2016-06-24T22:45:01.747Z'
+dateModified: '2016-06-24T22:44:51.755Z'
 title: ''
 author: []
+sourcePath: >-
+  _posts/2016-06-24-the-brexits-effects-on-nato-and-global-security-architectur.md
 authors: []
 publisher: null
 starred: false
-sourcePath: >-
-  _posts/2016-06-24-the-brexits-effects-on-nato-and-global-security-architectur.md
 url: the-brexits-effects-on-nato-and-global-security-architectur/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9403f19-7aea-42a4-9a96-4a7a4bdcf770.jpg)
+
 As results of the Brexit referendum were released on June 23rd, effects of the decision instantly began to manifest themselves.
 
 **Economic Effects **
