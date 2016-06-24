@@ -7,8 +7,8 @@ keywords: []
 description: >-
   As results of the Brexit referendum were released on June 23rd, effects of the
   decision instantly began to manifest themselves.
-datePublished: '2016-06-24T22:52:56.548Z'
-dateModified: '2016-06-24T22:52:16.955Z'
+datePublished: '2016-06-24T22:54:30.295Z'
+dateModified: '2016-06-24T22:53:15.209Z'
 title: ''
 author: []
 sourcePath: >-
