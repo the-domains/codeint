@@ -1,29 +1,41 @@
-name: CodeInt
-favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.4939869954250753
 title: CodeInt
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-74958506-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0
+  brandStrength: 0.5
+  lightness: 0
   brandColors:
     - '#0b3155'
     - '#5188a6'
     - '#8db8cb'
     - '#c6dae3'
     - '#000100'
-  brandStrength: 0.5
-  lightness: 0
-  saturation: 1
-  rhythmicContrast: 0.25
-purpose: []
+  rhythmicContrast: 0.1451613
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: UA-74958506-1
+  facebook: null
+name: CodeInt
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.4939869954250753
+layout_spectrum: 0
